@@ -263,11 +263,3 @@ A powerful cloud platform that offers a free tier for web services.
 ## Contributing
 
 Contributions are welcome\! If you have suggestions for improvements, bug fixes, or new features, please open an issue or submit a pull request.
-
-## Contact
-
-For any questions or inquiries, please contact:
-
-  * Shreya Priyadrshni
-  * shreyamgm16@gmail.com
-  * https://github.com/shreya-1634
